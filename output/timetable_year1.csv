@@ -1,0 +1,101 @@
+Course ID,Course Name,Section,Type,Session,Day,Start Time,End Time,Duration,Room,Room Type,Instructor,Instructor ID
+PHY113,Physics 1,1/1,TUTORIAL,3,Sunday,12:30 PM,1:15 PM,45 min,R110,Lecture,Eng. Karim Youssef,AP25
+PHY113,Physics 1,1/1,TUTORIAL,2,Sunday,1:15 PM,2:00 PM,45 min,R110,Lecture,Eng. Karim Youssef,AP25
+MTH111,Mathematics (1) ( Calculus + Linear Algebra),1/1,TUTORIAL,2,Sunday,3:00 PM,3:45 PM,45 min,R104,Lecture,Eng. Youssef Ali,AP30
+PHY113,Physics 1,1/1,TUTORIAL,1,Sunday,9:45 AM,10:30 AM,45 min,R105,Lecture,Dr. Adel Fathy,PROF03
+MTH111,Mathematics (1) ( Calculus + Linear Algebra),1/1,TUTORIAL,1,Monday,9:45 AM,10:30 AM,45 min,R104,Lecture,Eng. Nour Hassan,AP28
+MTH111,Mathematics (1) ( Calculus + Linear Algebra),1/1,TUTORIAL,3,Tuesday,3:00 PM,3:45 PM,45 min,R107,Lecture,Eng. Nour Hassan,AP28
+MTH111,Mathematics (1) ( Calculus + Linear Algebra),1/10,TUTORIAL,2,Sunday,10:45 AM,11:30 AM,45 min,R103,Lecture,Eng. Mona Said,AP29
+MTH111,Mathematics (1) ( Calculus + Linear Algebra),1/10,TUTORIAL,1,Sunday,11:30 AM,12:15 PM,45 min,R102,Lecture,Eng. Nour Hassan,AP28
+PHY113,Physics 1,1/10,TUTORIAL,3,Sunday,12:30 PM,1:15 PM,45 min,R107,Lecture,Eng. Yasmin Khaled,AP22
+PHY113,Physics 1,1/10,TUTORIAL,2,Sunday,1:15 PM,2:00 PM,45 min,R107,Lecture,Eng. Yasmin Khaled,AP22
+PHY113,Physics 1,1/10,TUTORIAL,1,Sunday,2:15 PM,3:00 PM,45 min,R106,Lecture,Eng. Laila Ibrahim,AP13
+MTH111,Mathematics (1) ( Calculus + Linear Algebra),1/10,TUTORIAL,3,Sunday,9:45 AM,10:30 AM,45 min,R102,Lecture,Eng. Nour Hassan,AP28
+MTH111,Mathematics (1) ( Calculus + Linear Algebra),1/11,TUTORIAL,2,Sunday,10:45 AM,11:30 AM,45 min,R102,Lecture,Eng. Nour Hassan,AP28
+MTH111,Mathematics (1) ( Calculus + Linear Algebra),1/11,TUTORIAL,1,Sunday,11:30 AM,12:15 PM,45 min,R101,Lecture,Eng. Ahmed Mahmoud,AP27
+PHY113,Physics 1,1/11,TUTORIAL,3,Sunday,12:30 PM,1:15 PM,45 min,R106,Lecture,Eng. Laila Ibrahim,AP13
+PHY113,Physics 1,1/11,TUTORIAL,2,Sunday,1:15 PM,2:00 PM,45 min,R106,Lecture,Eng. Laila Ibrahim,AP13
+PHY113,Physics 1,1/11,TUTORIAL,1,Sunday,2:15 PM,3:00 PM,45 min,R105,Lecture,Dr. Adel Fathy,PROF03
+MTH111,Mathematics (1) ( Calculus + Linear Algebra),1/11,TUTORIAL,3,Sunday,9:45 AM,10:30 AM,45 min,R101,Lecture,Eng. Ahmed Mahmoud,AP27
+MTH111,Mathematics (1) ( Calculus + Linear Algebra),1/12,TUTORIAL,1,Sunday,10:45 AM,11:30 AM,45 min,R101,Lecture,Eng. Ahmed Mahmoud,AP27
+PHY113,Physics 1,1/12,TUTORIAL,3,Sunday,11:30 AM,12:15 PM,45 min,R105,Lecture,Dr. Adel Fathy,PROF03
+PHY113,Physics 1,1/12,TUTORIAL,2,Sunday,12:30 PM,1:15 PM,45 min,R105,Lecture,Dr. Adel Fathy,PROF03
+PHY113,Physics 1,1/12,TUTORIAL,1,Sunday,1:15 PM,2:00 PM,45 min,R105,Lecture,Dr. Adel Fathy,PROF03
+ECE111,Digital Logic Design,1/12,LAB,2,Sunday,2:15 PM,3:00 PM,90 min,L20,Lab,Prof. Ahmed Allam,PROF05
+PHY113,Physics 1,1/12,LAB,3,Monday,10:45 AM,11:30 AM,90 min,L20,Lab,Dr. Adel Fathy,PROF03
+PHY113,Physics 1,1/12,LAB,2,Monday,12:30 PM,1:15 PM,90 min,L20,Lab,Dr. Adel Fathy,PROF03
+PHY113,Physics 1,1/12,LAB,1,Monday,2:15 PM,3:00 PM,90 min,L20,Lab,Dr. Adel Fathy,PROF03
+ECE111,Digital Logic Design,1/12,LAB,3,Tuesday,12:30 PM,1:15 PM,90 min,L20,Lab,Dr. Sameh Sherif,PROF06
+CSC111,Fundamentals of Programming,1/12,LAB,2,Tuesday,2:15 PM,3:00 PM,90 min,L20,Lab,Eng. Nada Hamdy,AP05
+CSC111,Fundamentals of Programming,1/12,LAB,3,Wednesday,10:45 AM,11:30 AM,90 min,L20,Lab,Eng. Nada Hamdy,AP05
+ECE111,Digital Logic Design,1/12,LAB,1,Thursday,10:45 AM,11:30 AM,90 min,L20,Lab,Dr. Sameh Sherif,PROF06
+CSC111,Fundamentals of Programming,1/12,LAB,1,Thursday,12:30 PM,1:15 PM,90 min,L20,Lab,Dr. Reda Elbasiony,PROF01
+MTH111,Mathematics (1) ( Calculus + Linear Algebra),1/12,TUTORIAL,2,Thursday,2:15 PM,3:00 PM,45 min,R113,Lecture,Eng. Ahmed Mahmoud,AP27
+MTH111,Mathematics (1) ( Calculus + Linear Algebra),1/12,TUTORIAL,3,Thursday,3:00 PM,3:45 PM,45 min,R105,Lecture,Eng. Sara Ahmed,AP26
+PHY113,Physics 1,1/2,TUTORIAL,1,Sunday,11:30 AM,12:15 PM,45 min,R110,Lecture,Eng. Karim Youssef,AP25
+PHY113,Physics 1,1/2,TUTORIAL,2,Sunday,1:15 PM,2:00 PM,45 min,R109,Lecture,Eng. Hana Samir,AP24
+MTH111,Mathematics (1) ( Calculus + Linear Algebra),1/2,TUTORIAL,3,Sunday,3:00 PM,3:45 PM,45 min,R103,Lecture,Eng. Mona Said,AP29
+PHY113,Physics 1,1/2,TUTORIAL,3,Sunday,9:45 AM,10:30 AM,45 min,R110,Lecture,Eng. Karim Youssef,AP25
+MTH111,Mathematics (1) ( Calculus + Linear Algebra),1/2,TUTORIAL,1,Monday,10:45 AM,11:30 AM,45 min,R101,Lecture,Dr. Ayman Arafa,PROF02
+MTH111,Mathematics (1) ( Calculus + Linear Algebra),1/2,TUTORIAL,2,Monday,9:45 AM,10:30 AM,45 min,R103,Lecture,Eng. Ahmed Mahmoud,AP27
+PHY113,Physics 1,1/3,TUTORIAL,3,Sunday,10:45 AM,11:30 AM,45 min,R110,Lecture,Eng. Karim Youssef,AP25
+PHY113,Physics 1,1/3,TUTORIAL,2,Sunday,11:30 AM,12:15 PM,45 min,R108,Lecture,Eng. Omar Farid,AP23
+PHY113,Physics 1,1/3,TUTORIAL,1,Sunday,12:30 PM,1:15 PM,45 min,R109,Lecture,Eng. Hana Samir,AP24
+MTH111,Mathematics (1) ( Calculus + Linear Algebra),1/3,TUTORIAL,3,Sunday,2:15 PM,3:00 PM,45 min,R104,Lecture,Eng. Youssef Ali,AP30
+MTH111,Mathematics (1) ( Calculus + Linear Algebra),1/3,TUTORIAL,2,Sunday,3:00 PM,3:45 PM,45 min,R102,Lecture,Eng. Nour Hassan,AP28
+MTH111,Mathematics (1) ( Calculus + Linear Algebra),1/3,TUTORIAL,1,Monday,9:45 AM,10:30 AM,45 min,R102,Lecture,Eng. Sara Ahmed,AP26
+PHY113,Physics 1,1/4,TUTORIAL,2,Sunday,10:45 AM,11:30 AM,45 min,R109,Lecture,Eng. Hana Samir,AP24
+PHY113,Physics 1,1/4,TUTORIAL,1,Sunday,11:30 AM,12:15 PM,45 min,R109,Lecture,Eng. Hana Samir,AP24
+MTH111,Mathematics (1) ( Calculus + Linear Algebra),1/4,TUTORIAL,3,Sunday,2:15 PM,3:00 PM,45 min,R103,Lecture,Eng. Mona Said,AP29
+MTH111,Mathematics (1) ( Calculus + Linear Algebra),1/4,TUTORIAL,2,Sunday,3:00 PM,3:45 PM,45 min,R101,Lecture,Eng. Ahmed Mahmoud,AP27
+PHY113,Physics 1,1/4,TUTORIAL,3,Sunday,9:45 AM,10:30 AM,45 min,R109,Lecture,Eng. Hana Samir,AP24
+MTH111,Mathematics (1) ( Calculus + Linear Algebra),1/4,TUTORIAL,1,Monday,9:45 AM,10:30 AM,45 min,R101,Lecture,Dr. Ayman Arafa,PROF02
+PHY113,Physics 1,1/5,TUTORIAL,2,Sunday,10:45 AM,11:30 AM,45 min,R108,Lecture,Eng. Omar Farid,AP23
+MTH111,Mathematics (1) ( Calculus + Linear Algebra),1/5,TUTORIAL,3,Sunday,12:30 PM,1:15 PM,45 min,R104,Lecture,Eng. Youssef Ali,AP30
+MTH111,Mathematics (1) ( Calculus + Linear Algebra),1/5,TUTORIAL,2,Sunday,1:15 PM,2:00 PM,45 min,R104,Lecture,Eng. Youssef Ali,AP30
+MTH111,Mathematics (1) ( Calculus + Linear Algebra),1/5,TUTORIAL,1,Sunday,2:15 PM,3:00 PM,45 min,R102,Lecture,Eng. Nour Hassan,AP28
+PHY113,Physics 1,1/5,TUTORIAL,1,Sunday,3:00 PM,3:45 PM,45 min,R105,Lecture,Dr. Adel Fathy,PROF03
+PHY113,Physics 1,1/5,TUTORIAL,3,Sunday,9:45 AM,10:30 AM,45 min,R108,Lecture,Eng. Omar Farid,AP23
+PHY113,Physics 1,1/6,TUTORIAL,2,Sunday,10:45 AM,11:30 AM,45 min,R107,Lecture,Eng. Yasmin Khaled,AP22
+PHY113,Physics 1,1/6,TUTORIAL,1,Sunday,11:30 AM,12:15 PM,45 min,R107,Lecture,Eng. Yasmin Khaled,AP22
+MTH111,Mathematics (1) ( Calculus + Linear Algebra),1/6,TUTORIAL,3,Sunday,12:30 PM,1:15 PM,45 min,R103,Lecture,Eng. Mona Said,AP29
+MTH111,Mathematics (1) ( Calculus + Linear Algebra),1/6,TUTORIAL,2,Sunday,1:15 PM,2:00 PM,45 min,R103,Lecture,Eng. Mona Said,AP29
+MTH111,Mathematics (1) ( Calculus + Linear Algebra),1/6,TUTORIAL,1,Sunday,2:15 PM,3:00 PM,45 min,R101,Lecture,Eng. Ahmed Mahmoud,AP27
+PHY113,Physics 1,1/6,TUTORIAL,3,Sunday,9:45 AM,10:30 AM,45 min,R107,Lecture,Eng. Yasmin Khaled,AP22
+PHY113,Physics 1,1/7,TUTORIAL,2,Sunday,10:45 AM,11:30 AM,45 min,R106,Lecture,Eng. Laila Ibrahim,AP13
+MTH111,Mathematics (1) ( Calculus + Linear Algebra),1/7,TUTORIAL,3,Sunday,11:30 AM,12:15 PM,45 min,R104,Lecture,Eng. Youssef Ali,AP30
+MTH111,Mathematics (1) ( Calculus + Linear Algebra),1/7,TUTORIAL,2,Sunday,12:30 PM,1:15 PM,45 min,R102,Lecture,Eng. Nour Hassan,AP28
+MTH111,Mathematics (1) ( Calculus + Linear Algebra),1/7,TUTORIAL,1,Sunday,1:15 PM,2:00 PM,45 min,R102,Lecture,Eng. Nour Hassan,AP28
+PHY113,Physics 1,1/7,TUTORIAL,1,Sunday,2:15 PM,3:00 PM,45 min,R108,Lecture,Eng. Omar Farid,AP23
+PHY113,Physics 1,1/7,TUTORIAL,3,Sunday,9:45 AM,10:30 AM,45 min,R106,Lecture,Eng. Laila Ibrahim,AP13
+PHY113,Physics 1,1/8,TUTORIAL,3,Sunday,10:45 AM,11:30 AM,45 min,R105,Lecture,Dr. Adel Fathy,PROF03
+PHY113,Physics 1,1/8,TUTORIAL,2,Sunday,11:30 AM,12:15 PM,45 min,R106,Lecture,Eng. Laila Ibrahim,AP13
+MTH111,Mathematics (1) ( Calculus + Linear Algebra),1/8,TUTORIAL,2,Sunday,12:30 PM,1:15 PM,45 min,R101,Lecture,Eng. Ahmed Mahmoud,AP27
+MTH111,Mathematics (1) ( Calculus + Linear Algebra),1/8,TUTORIAL,1,Sunday,1:15 PM,2:00 PM,45 min,R101,Lecture,Eng. Ahmed Mahmoud,AP27
+MTH111,Mathematics (1) ( Calculus + Linear Algebra),1/8,TUTORIAL,3,Sunday,9:45 AM,10:30 AM,45 min,R103,Lecture,Eng. Mona Said,AP29
+PHY113,Physics 1,1/8,TUTORIAL,1,Monday,3:00 PM,3:45 PM,45 min,R112,Lecture,Eng. Yasmin Khaled,AP22
+MTH111,Mathematics (1) ( Calculus + Linear Algebra),1/9,TUTORIAL,2,Sunday,10:45 AM,11:30 AM,45 min,R104,Lecture,Eng. Youssef Ali,AP30
+MTH111,Mathematics (1) ( Calculus + Linear Algebra),1/9,TUTORIAL,1,Sunday,11:30 AM,12:15 PM,45 min,R103,Lecture,Eng. Mona Said,AP29
+PHY113,Physics 1,1/9,TUTORIAL,3,Sunday,12:30 PM,1:15 PM,45 min,R108,Lecture,Eng. Omar Farid,AP23
+PHY113,Physics 1,1/9,TUTORIAL,2,Sunday,1:15 PM,2:00 PM,45 min,R108,Lecture,Eng. Omar Farid,AP23
+PHY113,Physics 1,1/9,TUTORIAL,1,Sunday,2:15 PM,3:00 PM,45 min,R107,Lecture,Eng. Yasmin Khaled,AP22
+MTH111,Mathematics (1) ( Calculus + Linear Algebra),1/9,TUTORIAL,3,Sunday,9:45 AM,10:30 AM,45 min,R104,Lecture,Eng. Youssef Ali,AP30
+PHY113,Physics 1,ALL,LECTURE,1,Sunday,10:45 AM,12:15 PM,90 min,R114,Lecture,Eng. Karim Youssef,AP25
+LRA401,Japanese Language (1),ALL,LECTURE,1,Sunday,12:30 PM,2:00 PM,90 min,R114,Lecture,Dr. Yumi Yamamoto,PROF34
+MTH111,Mathematics (1) ( Calculus + Linear Algebra),ALL,LECTURE,2,Sunday,2:15 PM,3:45 PM,90 min,R114,Lecture,Eng. Youssef Ali,AP30
+CSC111,Fundamentals of Programming,ALL,LECTURE,1,Monday,10:45 AM,12:15 PM,90 min,R114,Lecture,Eng. Nada Hamdy,AP05
+PHY113,Physics 1,ALL,LECTURE,2,Monday,12:30 PM,2:00 PM,90 min,R114,Lecture,Eng. Karim Youssef,AP25
+MTH111,Mathematics (1) ( Calculus + Linear Algebra),ALL,LECTURE,1,Monday,2:15 PM,3:45 PM,90 min,R114,Lecture,Eng. Youssef Ali,AP30
+ECE111,Digital Logic Design,ALL,LECTURE,3,Monday,9:00 AM,10:30 AM,90 min,R114,Lecture,Eng. Laila Ibrahim,AP13
+MTH111,Mathematics (1) ( Calculus + Linear Algebra),ALL,LECTURE,3,Tuesday,10:45 AM,12:15 PM,90 min,R114,Lecture,Eng. Youssef Ali,AP30
+PHY113,Physics 1,ALL,LECTURE,3,Tuesday,12:30 PM,2:00 PM,90 min,R114,Lecture,Eng. Karim Youssef,AP25
+CSC111,Fundamentals of Programming,ALL,LECTURE,3,Tuesday,2:15 PM,3:45 PM,90 min,R114,Lecture,Eng. Nada Hamdy,AP05
+ECE111,Digital Logic Design,ALL,LECTURE,1,Tuesday,9:00 AM,10:30 AM,90 min,R114,Lecture,Eng. Laila Ibrahim,AP13
+ECE111,Digital Logic Design,ALL,LECTURE,2,Wednesday,10:45 AM,12:15 PM,90 min,R114,Lecture,Dr. Sameh Sherif,PROF06
+LRA104,Music and Technology,ALL,LECTURE,2,Wednesday,12:30 PM,2:00 PM,90 min,R114,Lecture,Prof. Adel Al-senn,PROF27
+LRA101,Japanese Culture,ALL,LECTURE,1,Wednesday,2:15 PM,3:45 PM,90 min,R114,Lecture,Dr. Sherine Elmotasem,PROF04
+CSC111,Fundamentals of Programming,ALL,LECTURE,2,Wednesday,9:00 AM,10:30 AM,90 min,R114,Lecture,Eng. Nada Hamdy,AP05
+LRA104,Music and Technology,ALL,LECTURE,1,Thursday,10:45 AM,12:15 PM,90 min,R114,Lecture,Prof. Adel Al-senn,PROF27
+LRA105,Theater and Drama,ALL,LECTURE,2,Thursday,12:30 PM,2:00 PM,90 min,R114,Lecture,Dr. Mohamed El-khateeb,PROF28
+LRA105,Theater and Drama,ALL,LECTURE,1,Thursday,2:15 PM,3:45 PM,90 min,R114,Lecture,Dr. Mohamed El-khateeb,PROF28
+LRA101,Japanese Culture,ALL,LECTURE,2,Thursday,9:00 AM,10:30 AM,90 min,R114,Lecture,Dr. Sherine Elmotasem,PROF04
